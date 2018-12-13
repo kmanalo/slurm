@@ -3,6 +3,7 @@ documents those changes that are of interest to users and administrators.
 
 * Changes in Slurm 18.08.5
 ==========================
+ -- Add XCC plugin for reading Lenovo Power.
 
 * Changes in Slurm 18.08.4
 ==========================
