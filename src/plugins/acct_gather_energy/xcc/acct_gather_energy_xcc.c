@@ -110,8 +110,8 @@ slurmd_conf_t *conf = NULL;
  * (major.minor.micro combined into a single number).
  */
 
-const char plugin_name[] = "AcctGatherEnergy IPMI plugin";
-const char plugin_type[] = "acct_gather_energy/ipmi";
+const char plugin_name[] = "AcctGatherEnergy XCC plugin";
+const char plugin_type[] = "acct_gather_energy/xcc";
 const uint32_t plugin_version = SLURM_VERSION_NUMBER;
 
 typedef struct slurm_ipmi_conf {
