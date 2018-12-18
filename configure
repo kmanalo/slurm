@@ -27043,6 +27043,12 @@ do
     "src/plugins/checkpoint/blcr/cr_restart.sh") CONFIG_FILES="$CONFIG_FILES src/plugins/checkpoint/blcr/cr_restart.sh" ;;
     "src/plugins/checkpoint/none/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/checkpoint/none/Makefile" ;;
     "src/plugins/checkpoint/ompi/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/checkpoint/ompi/Makefile" ;;
+    "src/plugins/cli_filter/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/Makefile" ;;
+    "src/plugins/cli_filter/common/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/common/Makefile" ;;
+    "src/plugins/cli_filter/defaults/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/defaults/Makefile" ;;
+    "src/plugins/cli_filter/lua/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/lua/Makefile" ;;
+    "src/plugins/cli_filter/syslog/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/syslog/Makefile" ;;
+    "src/plugins/cli_filter/user_defaults/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/cli_filter/user_defaults/Makefile" ;;
     "src/plugins/core_spec/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/core_spec/Makefile" ;;
     "src/plugins/core_spec/cray/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/core_spec/cray/Makefile" ;;
     "src/plugins/core_spec/none/Makefile") CONFIG_FILES="$CONFIG_FILES src/plugins/core_spec/none/Makefile" ;;
